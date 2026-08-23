@@ -19,7 +19,7 @@
     <linkfile src="headers" dest="kernel/xiaomi/blossom" />
   </project>  
 
-  <project path="hardware/mediatek" name="haikito18/android_hardware_mediatek" remote="gitlab1" revision="lineage-23" /> 
+  <project path="hardware/mediatek" name="android_hardware_mediatek" remote="ab" revision="lineage-23" /> 
   <project name="HaiKito18/ViaBrowser" path="packages/apps/ViaBrowser" remote="gh" revision="main" />
   <project name="HaiKito18/Dolby-blossom" path="hardware/dolby" remote="cb" revision="sony-1.5" />
   <!-- RevampedFMRadio -->
