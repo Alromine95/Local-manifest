@@ -4,7 +4,6 @@
 	<remote name="gh" fetch="https://github.com" />
     <remote name="gitlab1" fetch="https://gitlab.com" />
 	<remote name="cb" fetch="https://codeberg.org" />
-
     <remote name="ab" fetch="https://github.com/Alromine95" />
 
   <project name="device_xiaomi_blossom" path="device/xiaomi/blossom" remote="ab" revision="A16-qpr0" />
