@@ -25,11 +25,6 @@
   <project path="packages/apps/RevampedFMRadio" name="TracenPlayground/packages_apps_RevampedFMRadio" remote="gh" revision="mtk" />
   <remove-project path="packages/apps/FMRadio"/>
 
-	  <!-- Remove base AOSP / Lineage build repositories -->
-  <remove-project name="platform/build/soong" />
-  <remove-project name="platform/build" />
-
-
   <!-- Replace with YAAP build repos and updated Go toolchain -->
   <project path="build/soong" name="build_soong" remote="yaap" revision="sixteen" />
   <project path="build/make" name="build_make" remote="yaap" revision="sixteen" />
