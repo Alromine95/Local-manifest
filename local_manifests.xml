@@ -31,5 +31,5 @@
 
 	
   <!-- Add missing YAAP vendor repo required by envsetup.sh & roomservice -->
-  <project path="vendor/yaap" name="vendor_yaap" remote="github" revision="sixteen" />
+  <project path="vendor/yaap" name="vendor_yaap" remote="yaap" revision="sixteen" />
 </manifest>
