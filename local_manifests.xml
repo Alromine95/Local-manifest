@@ -5,8 +5,7 @@
     <remote name="gitlab1" fetch="https://gitlab.com" />
 	<remote name="cb" fetch="https://codeberg.org" />
     <remote name="ab" fetch="https://github.com/Alromine95" />
-    <remote name="yaap" fetch="https://github.com/YAAP" />
-	
+    
 
   <project name="device_xiaomi_blossom" path="device/xiaomi/blossom" remote="ab" revision="16.2" />
   <project name="HaiKito18/android_device_mediatek_sepolicy_vndr_lineage23" path="device/mediatek/sepolicy_vndr" remote="gh" revision="lineage-23.2" />  
