@@ -5,7 +5,6 @@
     <remote name="gitlab1" fetch="https://gitlab.com" />
 	<remote name="cb" fetch="https://codeberg.org" />
     <remote name="ab" fetch="https://github.com/Alromine95" />
-	<remote name="lineage" fetch="https://github.com/LineageOS" />
     <remote name="yaap" fetch="https://github.com/YAAP" />
 	
 
