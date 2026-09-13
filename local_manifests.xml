@@ -23,9 +23,10 @@
   <project name="HaiKito18/ViaBrowser" path="packages/apps/ViaBrowser" remote="gh" revision="main" />
   <project name="HaiKito18/Dolby-blossom" path="hardware/dolby" remote="cb" revision="sony-1.5" />
 
-  <remove-project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"/>
-  <remove-project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"/>
+
   <!-- RevampedFMRadio -->
   <project path="packages/apps/RevampedFMRadio" name="TracenPlayground/packages_apps_RevampedFMRadio" remote="gh" revision="mtk" />
   <remove-project path="packages/apps/FMRadio"/>
+  <remove-project path="prebuilts/gcc/linux-x86/arm/arm-linux-androideabi-4.9"/>
+  <remove-project path="prebuilts/gcc/linux-x86/aarch64/aarch64-linux-android-4.9"/>
 </manifest>
