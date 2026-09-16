@@ -27,4 +27,5 @@
   <!-- RevampedFMRadio -->
   <project path="packages/apps/RevampedFMRadio" name="TracenPlayground/packages_apps_RevampedFMRadio" remote="gh" revision="mtk" />
   <remove-project path="packages/apps/FMRadio"/>
+  <remove-project path="packages/apps/OpenEUICC"/>
 </manifest>
