@@ -15,7 +15,7 @@
   </project>
 	-->
 
-	   <project path="device/xiaomi/blossom-kernel" name="Iam-nishan/jujutsu-kernel" remote="gh" revision="V5" >
+	   <project path="device/xiaomi/blossom-kernel" name="crdroidandroid/android_device_xiaomi_blossom" remote="gh" revision="16.0" >
     <linkfile src="headers" dest="kernel/xiaomi/blossom" />
   </project>  
 
