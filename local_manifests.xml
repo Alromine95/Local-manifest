@@ -23,8 +23,7 @@
   <project name="HaiKito18/ViaBrowser" path="packages/apps/ViaBrowser" remote="gh" revision="main" />
   <project name="HaiKito18/Dolby-blossom" path="hardware/dolby" remote="cb" revision="sony-1.5" />
 
-  <remove-project name="GrapheneOS/platform_external_vanadium" />
-  <project path="external/vanadium" name="GrapheneOS/platform_external_vanadium" remote="gitlab" revision="refs/tags/2026061600" />
+
 
 
   <!-- RevampedFMRadio -->
