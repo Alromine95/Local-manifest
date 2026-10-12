@@ -24,7 +24,7 @@
   <project name="HaiKito18/Dolby-blossom" path="hardware/dolby" remote="cb" revision="sony-1.5" />
 
 
-  <project name="LineageOs/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" revision="lineage-23.2" /> 
+  <project name="LineageOs/android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="gh" revision="lineage-23.2" /> 
 
   <!-- RevampedFMRadio -->
   <project path="packages/apps/RevampedFMRadio" name="TracenPlayground/packages_apps_RevampedFMRadio" remote="gh" revision="mtk" />
